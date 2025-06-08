@@ -1,0 +1,10 @@
+shared_pkg.sv
+interface.sv
+FIFO_SV.sv
+FIFO.sv
+transaction_pkg.sv
+score_board.sv
+coverage_pkg.sv
+monitor.sv
+TB.sv
+top.sv

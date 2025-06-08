@@ -3,11 +3,13 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [SetUP](#setup)
-3. [Repository Structure](#repository-structure)
-4. [CMD Commands](#cmd-commands)
-5. [License](#license)
+2. [Objective](#objective)
+3. [Design Under Test (DUT)](#Design-Under-Test-(DUT))
+3. [Verification Enviornment](#verification-Enviornment)
+4. [Directory Sturcture](#Directory-Structure)
+5. [Tools Required](#Tools-Required)
+6. [SetUp](#SetUp)
+7. [License](#license)
 
 ---
 
